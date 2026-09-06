@@ -4,6 +4,16 @@ A fully-built **1Fi Marketplace** section added to the Shop page of the 1Fi app 
 
 The Shop page has three tabs — **Top Brands** and **Nearby Stores** are left as blank stubs per the assignment spec, and **1Fi Marketplace** is fully implemented: a product grid, a product detail page with variant selection and a selectable EMI plan ladder, and a confirmation step.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Shop – 1Fi Marketplace](screenshots/shop.png) Shop → 1Fi Marketplace | ![Product detail](screenshots/product-detail.png) Product detail — variants |
+| ![EMI plan selected](screenshots/emi-plan-selection.png) EMI plan ladder — selected | ![Confirmation modal](screenshots/confirm-modal.png) Proceed confirmation |
+| ![Home stub](screenshots/home.png) Home (stub) | ![Profile stub](screenshots/profile.png) Profile (stub) |
+
+Product artwork (`public/products/*.svg`) is original vector illustration, not real Apple/Samsung marketing photography.
+
 ## Tech stack
 
 - **Next.js 16** (App Router, Turbopack) + **TypeScript**
